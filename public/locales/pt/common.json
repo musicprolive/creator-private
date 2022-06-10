@@ -1,0 +1,17 @@
+{
+    "welcome" : "BEM VINDO",
+
+    "Welcome" : "BEM VINDO",
+    
+    "Welcome to React" : "BEM VINDO PT!",
+
+    "intro.label" : "Einführung" ,
+  
+    "thankyou.label" : "Obrigado" ,
+  
+    "details.label" : "é um framework de internacionalização que oferece uma solução completa para localizar seu produto da web para celular e desktop:" ,
+  
+    "Advantages.label" : "Vorteile" ,
+  
+    "Advantagesdetails.label" : "Flexibilität zur Verwendung anderer Pakete"
+ }

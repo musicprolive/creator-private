@@ -1,0 +1,19 @@
+{
+
+    "welcome" : "Welcome EN",
+ 
+    "Welcome" : "Welcome EN",
+   
+    "Welcome to React" : "Welcome! EN",
+ 
+     "intro.label": "Einführung",
+   
+     "thankyou.label": "Thank you",
+   
+     "details.label": "is an internationalization-framework which offers a complete solution to localize your product from web to mobile and desktop:",
+   
+     "Advantages.label": "Vorteile",
+   
+     "Advantagesdetails.label": "Flexibilität zur Verwendung anderer Pakete"
+   
+   }
